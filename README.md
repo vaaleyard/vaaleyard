@@ -1,6 +1,6 @@
 ## Hello! 👋
 A little about me:
-- 🔭 I've worked as a DevOps Engineer for almost 4 years.
+- 🔭 I've worked as a DevOps Engineer for 5 years.
 - 📚 I'm a Computer Science student.
 - 🖥  I'm currently working in [gocatgo](https://github.com/vaaleyard/gocatgo).
 - 🌱 I'm learning more about security, Rust/Go and drums (yes, drums).
