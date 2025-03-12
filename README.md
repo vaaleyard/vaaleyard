@@ -1,12 +1,12 @@
 ## Hello! 👋
 A little about me:
-- 🔭 I've worked as a DevOps Engineer for 5 years.
+- 🔭 I've been working as a DevOps Engineer for 6 years.
 - 📚 I'm a Computer Science student.
-- 🌱 I'm learning more about security and Rust/Go.
+- 🌱 I'm learning more about security and Go.
 
 ## Things I'm interested
-![](https://img.shields.io/badge/-rust-red)
-![](https://img.shields.io/badge/-DevOps-blue)
+![](https://img.shields.io/badge/-golang-blue)
+![](https://img.shields.io/badge/-DevOps-orange)
 
 ********
   
