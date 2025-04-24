@@ -13,8 +13,6 @@
         <br>
         projects:<br>
           - gocatgo: pastebin service from terminal <br> 
-       <br>
-       <br>
       </samp>
     </p>
   </p>
