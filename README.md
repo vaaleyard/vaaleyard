@@ -13,6 +13,7 @@
         <br>
         projects:<br>
           - gocatgo: pastebin service from terminal <br> 
+          - tmux-dotbar: tmux status bar theme <br> 
       </samp>
     </p>
   </p>
