@@ -3,7 +3,7 @@
     <p float="left">
       <samp>
         about me:<br>
-               - 25  <br> 
+               - 26  <br> 
                - comp sci student at ufu  <br> 
                - devops engineer for 6+ years
         <br>
@@ -12,7 +12,7 @@
         <br>
         <br>
         projects:<br>
-          - gocatgo: pastebin service from terminal <br> 
+          - dexchat: a TUI IRC client <br> 
           - tmux-dotbar: tmux status bar theme <br> 
       </samp>
     </p>
